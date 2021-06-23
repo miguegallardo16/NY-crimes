@@ -15,21 +15,21 @@ Se usaron los siguientes atributos del conjunto de datos para el estudio:
 
 ## Primero se hizo un heatmap para ver la correlacion entre los distintos atributos
 
-![Heatmap](https://github.com/miguegallardo16/NY-crimes/imagenes/heatmap.png)
+![Heatmap](https://github.com/miguegallardo16/NY-crimes/blob/main/imagenes/heatmap.png?raw=true)
 v
 ## Realizamos una clasificacion supervisada de esos datos
 
-![Clasificacion](https://github.com/miguegallardo16/NY-crimes/imagenes/clf.png)
+![Clasificacion](https://github.com/miguegallardo16/NY-crimes/blob/main/imagenes/clf.png?raw=true)
 
 ## Creamos un árbol de decisión para nuestro caso de estudio
 
-![Arbol](https://github.com/miguegallardo16/NY-crimes/imagenes/tree.png)
+![Arbol](https://github.com/miguegallardo16/NY-crimes/blob/main/imagenes/tree.png?raw=true)
 
 A partir de aqui se realizó un estudio a partir de las imagenes de manera interactivo con dash.
 
 Por ultimo se hizo un estudio geografico a partir de las imagenes.
 
-![Arbol](https://github.com/miguegallardo16/NY-crimes/imagenes/vic_race.png)
-![Arbol](https://github.com/miguegallardo16/NY-crimes/imagenes/susp_race.png)
-![Arbol](https://github.com/miguegallardo16/NY-crimes/imagenes/boro_nm.png)
+![Arbol](https://github.com/miguegallardo16/NY-crimes/blob/main/imagenes/vic_race.png?raw=true)
+![Arbol](https://github.com/miguegallardo16/NY-crimes/blob/main/imagenes/susp_race.png?raw=true)
+![Arbol](https://github.com/miguegallardo16/NY-crimes/blob/main/imagenes/boro_nm.png?raw=true)
 
