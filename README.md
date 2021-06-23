@@ -16,7 +16,7 @@ Se usaron los siguientes atributos del conjunto de datos para el estudio:
 ## Primero se hizo un heatmap para ver la correlacion entre los distintos atributos
 
 ![Heatmap](https://github.com/miguegallardo16/NY-crimes/blob/main/imagenes/heatmap.jpg?raw=true)
-v
+
 ## Realizamos una clasificacion supervisada de esos datos
 
 ![Clasificacion](https://github.com/miguegallardo16/NY-crimes/blob/main/imagenes/clf.jpg?raw=true)
